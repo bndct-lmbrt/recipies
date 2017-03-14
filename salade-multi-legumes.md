@@ -12,8 +12,8 @@
 * 150g de noisettes
 * 1/2 bouquet de menthe chocolat (ou menthe classique)
 * 200g de mâche
-* 1 boîte de graines germées
-sauce vinaigrette
+* 1 boîte de graines germées  
+sauce vinaigrette  
 * huile
 * vinaigre de cidre
 * moutarde
