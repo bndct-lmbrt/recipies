@@ -8,8 +8,8 @@ marinade
 * 4 cc de concentré de tomates
 * 1 racine de gingembre 7cm environ
 * 1 cc de coriandre en graines 
-* 1 cc de chaque épice : curry, cumin, 4 épices
-Boeuf
+* 1 cc de chaque épice : curry, cumin, 4 épices  
+Boeuf  
 * poids suivant le morceau choisi
 
 ## Déroulé :
