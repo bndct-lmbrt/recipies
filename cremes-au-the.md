@@ -2,7 +2,7 @@
 
 ## Ingrédients (pour 15 ramequins) :
 
-caramel
+caramel  
 * 200g de sucre  
 crème  
 * 600ml de lait 
