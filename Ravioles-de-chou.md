@@ -25,16 +25,16 @@ ravioles
 
 ## Déroulé :
 
-Mettre dans une casserole les 2L d'eau. Ajouter la citronnelle coupée en gros tronçons, le gingembre coupé en morceaux ainsi que le galanga. Les morceaux doivent être suffisamment gros pour être écartés du bouillon par la suite. 
-Mettre les feuilles de citronnier et la coriandre, zester un peu de citron combava. Plonger les cubes de bouillon.
-Mettre à chauffer à feu doux et laisser infuser plusieurs heures pour que le bouillon prenne du goût.
-Retirer les feuilles les plus épaisses du chou et détacher délicatement le reste des feuilles. Couper pour retirer la plus grosse partie fibreuse de la feuille, la côte.
-Hacher l'oignon finement.
-Faire revenir à la poêle dans l'huile à feu assez vif.
-Ajouter les pleurotes coupées et faire réduire puis ajouter les épinards grossièrement hachés.
-Détailler les carottes en petits dés, ajouter la sauge ciselée, le zeste de citron jaune et la viande hachée.
-Faire revenir ce mélange jusqu'à ce que la viande soit cuite. Mélanger avec les oignons et champignons. Saler et poivrer.
-Dans une casserole d'eau bouillante, avec un peu de bicarbonate de soude, faire blanchir les feuilles de chou pendant 5 minutes.
-Garnir les feuilles de farce et refermer comme un petit panier puis ficeler.
-Faire cuire les ravioles 5 minutes dans le bouillon.
+Mettre dans une casserole les 2L d'eau. Ajouter la citronnelle coupée en gros tronçons, le gingembre coupé en morceaux ainsi que le galanga. Les morceaux doivent être suffisamment gros pour être écartés du bouillon par la suite.   
+Mettre les feuilles de citronnier et la coriandre, zester un peu de citron combava. Plonger les cubes de bouillon.  
+Mettre à chauffer à feu doux et laisser infuser plusieurs heures pour que le bouillon prenne du goût.  
+Retirer les feuilles les plus épaisses du chou et détacher délicatement le reste des feuilles. Couper pour retirer la plus grosse partie fibreuse de la feuille, la côte.  
+Hacher l'oignon finement.  
+Faire revenir à la poêle dans l'huile à feu assez vif.  
+Ajouter les pleurotes coupées et faire réduire puis ajouter les épinards grossièrement hachés.  
+Détailler les carottes en petits dés, ajouter la sauge ciselée, le zeste de citron jaune et la viande hachée.  
+Faire revenir ce mélange jusqu'à ce que la viande soit cuite. Mélanger avec les oignons et champignons. Saler et poivrer.  
+Dans une casserole d'eau bouillante, avec un peu de bicarbonate de soude, faire blanchir les feuilles de chou pendant 5 minutes.  
+Garnir les feuilles de farce et refermer comme un petit panier puis ficeler.  
+Faire cuire les ravioles 5 minutes dans le bouillon.  
 Servir aussitôt accompagné de bouillon.
