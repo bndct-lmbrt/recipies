@@ -3,8 +3,8 @@
 ## Ingrédients (pour 15 ramequins) :
 
 caramel
-* 200g de sucre
-crème
+* 200g de sucre  
+crème  
 * 600ml de lait 
 * 4/5 sachets de thé Earl grey
 * 4 oeufs
@@ -14,7 +14,7 @@ crème
 
 ## Déroulé :
 
-Faire un caramel et le verser dans les ramequins. 
+Faire un caramel et le verser dans les ramequins.   
 Préchauffer le four à 160°C.   
 Faire bouillir de l'eau pour le bain-marie.  
 Faire infuser le thé en découpant les sachets et en le mettant directement dans le lait à feu doux.  
