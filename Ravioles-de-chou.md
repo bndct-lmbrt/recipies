@@ -9,8 +9,8 @@ bouillon
 * 8 feuilles de citronnier
 * quelques tiges de coriandre fraîche
 * quelques zestes de citron combava (à défaut citron vert)
-* 2 bouillons de légumes
-ravioles
+* 2 bouillons de légumes  
+ravioles  
 * 1 chou vert frisé
 * 1 oignon
 * 1 CS d'huile
