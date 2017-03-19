@@ -12,6 +12,12 @@ marinade
 Boeuf  
 * poids suivant le morceau choisi
 
+## ustensiles
+* un bol pour préparer la marinade
+* une rape pour le gingembre
+* un pilon pour la coriandre
+* une casserole pour la viande
+
 ## Déroulé :
 
 Mélanger la sauce soja avec le miel et le concentré de tomates.  
