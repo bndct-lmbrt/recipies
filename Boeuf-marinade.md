@@ -1,3 +1,8 @@
+---
+layout: page
+title: Boeuf mariné au soja
+permalink: /boeuf-marinade/
+---
 # Boeuf mariné
 
 ## Ingrédients (pour 8/10 pers) :
