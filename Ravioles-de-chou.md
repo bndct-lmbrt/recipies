@@ -1,5 +1,11 @@
 # Ravioles de chou vert et bouillon asiatique (pour 8/10 personnes)
 
+## coût
+* pleurottes bio : 3€ (10€/kg)
+* légumes : 4 €
+* viande : 7€
+* racines et épices : ?
+
 ## Ingrédients :
 bouillon
 * 2L d'eau
@@ -9,19 +15,25 @@ bouillon
 * 8 feuilles de citronnier
 * quelques tiges de coriandre fraîche
 * quelques zestes de citron combava (à défaut citron vert)
-* 2 bouillons de légumes  
+* 2 bouillons de légumes (dans l'idéal fourni par l'AMAP) 
 ravioles  
-* 1 chou vert frisé
-* 1 oignon
+* 1 chou vert frisé (disponible habituellement dans le panier amap)
+* 1 oignon  (disponible habituellement dans le panier amap)
 * 1 CS d'huile
 * 300g de pleurotes (ou autre champignon)
-* 2 carottes
-* 400g d'épinards
+* 2 carottes  (disponible habituellement dans le panier amap)
+* 400g d'épinards  (disponible habituellement dans le panier amap)
 * 1/2 bouquet de sauge
 * le zeste d'1 citron
-* 400g de viande hachée
+* 400g de viande hachée (new steack fourni par David de l'amap)
 * sel, poivre
 * une pincée de bicarbonate de soude
+
+## ustensiles
+* casserole pour le bouillon
+* couteau
+* poële
+* ficelle
 
 ## Déroulé :
 
