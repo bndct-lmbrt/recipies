@@ -1,5 +1,16 @@
 # Crème au thé earl grey
 
+## coût
+* lait bio amap : 0,5€ (1,2€/l)
+* oeufs bio amap : 4,2 € (2,10€/6)
+* crême bio : 1€
+* sucre : ?
+
+## ustensiles
+* four
+* ramequins
+* casserole
+
 ## Ingrédients (pour 15 ramequins) :
 
 caramel  
