@@ -1,17 +1,30 @@
 # Salade de quinoa et légumes
 
+## coût
+* légumes amap : 8€
+* pamplemousses, grenades : 
+* noisettes
+* quinoa
+* graines germées
+* vinaigrette : 1€
+
+## ustensiles
+* économe
+* rape
+* saladier
+
 ## Ingrédients (pour 8/10 pers) :
 
 * 300g de quinoa
-* 4/5 radis roses de chine (ou 1 botte de radis rouges)
-* 1 betterave crue
+* 4/5 radis roses de chine (ou 1 botte de radis rouges)  (disponible habituellement dans le panier amap)
+* 1 betterave crue  (disponible habituellement dans le panier amap)
 * 1 grenade
-* 2 carottes 
-* 800g de fèves fraîches
+* 2 carottes  (disponible habituellement dans le panier amap)
+* 800g de fèves fraîches  (disponible habituellement dans le panier amap)
 * 2 pamplemousses
 * 150g de noisettes
 * 1/2 bouquet de menthe chocolat (ou menthe classique)
-* 200g de mâche
+* 200g de mâche (disponible habituellement dans le panier amap)
 * 1 boîte de graines germées  
 sauce vinaigrette  
 * huile
