@@ -19,8 +19,8 @@ biscuit au chocolat
 * 40g de sucre blanc
 * 2 cc de miel liquide
 * 60g de farine
-* 20g de cacao non sucré
-chantilly
+* 20g de cacao non sucré  
+chantilly  
 * 400g de crème fleurette
 * sucre glace (sucrer selon l'envie)
 * parfum (optionnel) : quelques zestes de citron combava ou des grains de vanille
