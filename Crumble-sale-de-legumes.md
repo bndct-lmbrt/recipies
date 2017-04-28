@@ -17,8 +17,8 @@ crumble
 * 250g de farine de sarrasin
 * 170g de beurre (de préférence 1/2 sel)
 * 100g de parmesan râpé
-* 2 poignées de noisettes, noix de cajou, tournesol, courge
-légumes (au choix) 
+* 2 poignées de noisettes, noix de cajou, tournesol, courge  
+légumes (au choix)   
 * pommes de terre
 * patates douces
 * épinards
