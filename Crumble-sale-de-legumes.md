@@ -1,6 +1,10 @@
 # Crumble salé de légumes
 
 ## coût
+* beurre
+* épinards
+* oignons
+* pommes de terre
 
 ## ustensiles
 * saladier
