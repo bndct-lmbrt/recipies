@@ -5,7 +5,7 @@ Chef : Mathieu Detchart
 
 # Menu
 
-* Tartare de maquereau
+* (https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)[Tartare de maquereau]
 * Filet de carrelet et légumes de printemps
 * Tiramisu aux fraises
 
