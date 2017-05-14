@@ -18,6 +18,6 @@ Préparer des suprêmes de citron :
 * découper les suprêmes en tranchant des quartiers
 * découper les suprêmes en morceau
 
-Hacher le balisic
-Hacher les échalottes
-Découper en petit cube les olives vertes
+* Hacher le balisic
+* Hacher les échalottes
+* Découper en petit cube les olives vertes
