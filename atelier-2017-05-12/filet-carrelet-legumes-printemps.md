@@ -1,6 +1,6 @@
 # Recette
 ## Filets de carrelet aux légumes de printemps
-![Illustration](/images/IMG_20170512_210716.jpg)
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/filet-carrelet.jpg)
 ### filet de carrelet
 * Lever les filets de carrelet: l 'arête centrale du carrelet est légèrement incurvée au niveau de la tête. 
 * En la suivant avec le doigt, découper à droite et à gauche de l'arête centrale
