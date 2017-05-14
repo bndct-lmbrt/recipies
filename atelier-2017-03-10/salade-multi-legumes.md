@@ -1,5 +1,5 @@
 # Salade de quinoa et légumes
-![Illustration](/images/IMG_20170310_202035.jpg)
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/smallIMG_20170310_202035.png)
 ## Ingrédients (pour 8/10 pers) :
 
 * 300g de quinoa
