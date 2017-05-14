@@ -5,9 +5,9 @@ Chef : Mathieu Detchart
 
 # Menu
 
-* [Tartare de maquereau](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
-* [Filet de carrelet et légumes de printemps](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
-* [Tiramisu aux fraises](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/tiramisu-fraise-revisite.md)
+* [Tartare de maquereau](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
+* [Filet de carrelet et légumes de printemps](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
+* [Tiramisu aux fraises](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/tiramisu-fraise-revisite.md)
 
 # ingrédients pour 12 personnes
 
