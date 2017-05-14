@@ -1,13 +1,13 @@
 ## Atelier spécial poisson
 
 Chef : Mathieu Detchart
-(site Internet)[http://www.detchart.com/]
+[site Internet!](http://www.detchart.com/)
 
 # Menu
 
-* [https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md](Tartare de maquereau)
-* [https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md](Filet de carrelet et légumes de printemps)
-* [https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/tiramisu-fraise-revisite.md](Tiramisu aux fraises)
+* [Tartare de maquereau!](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
+* [Filet de carrelet et légumes de printemps!](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/filet-carrelet-legumes-printemps.md)
+* [Tiramisu aux fraises!](https://github.com/akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/tiramisu-fraise-revisite.md)
 
 # ingrédients pour 12 personnes
 
