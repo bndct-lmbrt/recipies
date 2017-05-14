@@ -1,5 +1,5 @@
 # Ravioles de chou vert et bouillon asiatique (pour 8/10 personnes)
-![Illustration](/images/IMG_20170310_203343.jpg)
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/raviole-chou.jpg)
 ## Ingrédients :
 
 ### bouillon
