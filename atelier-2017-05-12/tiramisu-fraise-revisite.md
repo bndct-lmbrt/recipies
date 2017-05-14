@@ -1,6 +1,6 @@
 # Recette
 ## Dessert aux fraises et son biscuit dacquoise
-![Illustration](/images/IMG_20170512_213841.jpg)
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/tiramisu-revisite.jpg)
 ### préparation du biscuit
 * Commencer par faire préchauffer le four à 180°C (thermostat 6).
 * Verser 200g de poudre d'amandes, 200g de poudre de coco et 400g de sucre glace dans un bol.
