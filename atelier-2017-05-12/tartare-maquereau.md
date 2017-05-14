@@ -1,7 +1,8 @@
 
-## Recettes
-# tartare de maquereau
-Lever les filets de maquereau:
+# Recettes
+## tartare de maquereau
+![Illustration](/images/IMG_20170512_203015.jpg)
+### Lever les filets de maquereau:
 
 Avec un couteau aiguisé assez long
 * couper sur le dessus au niveau des ouies pour revenir vers la queue en posant la main à plat sur le maquereau
@@ -12,12 +13,13 @@ Avec un couteau aiguisé assez long
 * découper les bords et retirer toute partie contenant des arêtes
 * découper les filets en petits cubes et les verser dans un saladier
 
-Préparer des suprêmes de citron : 
+### Préparer des suprêmes de citron : 
 * découper la peau du citron avec un couteau aiguisé
 * enlever toute trace de peau
 * découper les suprêmes en tranchant des quartiers
 * découper les suprêmes en morceau
 
+### Assemblage
 * Hacher le balisic
 * Hacher les échalottes
 * Découper en petit cube les olives vertes
