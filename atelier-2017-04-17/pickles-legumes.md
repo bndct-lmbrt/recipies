@@ -1,5 +1,5 @@
 # Pickles de légumes
-
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/assiette-pickles.jpg)
 ## coût
 * asperges :
 * radis :
@@ -36,11 +36,11 @@ légumes au choix
 
 ## Déroulé :
 
-Mélanger le vinaigre, le sucre, le sel et les zestes d'agrumes.  
-Couper le ou les légumes (ou les fruits) très fin à l'aide d'une mandoline ou d'un couteau.	  
-Mélanger le tout dans un bol ou dans un sachet congélation.  
-Faire reposer 2 heures au minimum ou toute une nuit.  
-Déguster à l'apéritif ou mélangé dans une recette (rouleau de printemps, tartine, salade).  
+* Mélanger le vinaigre, le sucre, le sel et les zestes d'agrumes.  
+* Couper le ou les légumes (ou les fruits) très fin à l'aide d'une mandoline ou d'un couteau.	  
+* Mélanger le tout dans un bol ou dans un sachet congélation.  
+* Faire reposer 2 heures au minimum ou toute une nuit.  
+* Déguster à l'apéritif ou mélangé dans une recette (rouleau de printemps, tartine, salade).  
 
-Astuce : la rhubarbe est excellente en pickles  
+* Astuce : la rhubarbe est excellente en pickles  
 
