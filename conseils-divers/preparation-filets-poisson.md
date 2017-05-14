@@ -4,3 +4,6 @@
 <p>d&eacute;couper le maquereau pour lever les filets</p>
 ## enlever l'arête centrale
 <iframe src="https://player.vimeo.com/video/217390946" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## enlever la peau
+<iframe src="https://player.vimeo.com/video/217399169?byline=0&portrait=0" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p>enlever la peau du filet</p>
