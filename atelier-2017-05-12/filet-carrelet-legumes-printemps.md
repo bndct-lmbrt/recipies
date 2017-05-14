@@ -6,7 +6,7 @@
 * En la suivant avec le doigt, découper à droite et à gauche de l'arête centrale
 * Enlever la peau et nettoyer les filets
 
-#légumes
+# légumes
 * Eplucher et découper les carottes en julienne
 * Ecosser les fêves
 * Verser les fêves dans l'eau bouillante 2 min pour les blanchir
@@ -19,7 +19,7 @@
 * Faire revenir les fêves dans l'huile
 * faire griller les filets de carrelet dans de l'huile de pépin de raison
 
-#sauce
+# sauce
 * Péparer un fumet de poisson avec les carcasses nettoyées des viscères et des ouies
 * Dresser l'assiette en déposant les filets de carrelet sur le mélange de légumes
 * Verser le fumet de poisson sur les filets de carrelet
