@@ -1,7 +1,7 @@
 
 # Recettes
 ## tartare de maquereau
-![Illustration](/images/IMG_20170512_203015.jpg)
+![Illustration](../images/IMG_20170512_203015.jpg)
 ### Lever les filets de maquereau:
 
 Avec un couteau aiguisé assez long
