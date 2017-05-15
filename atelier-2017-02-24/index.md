@@ -1,10 +1,4 @@
----
-layout: post
-title: Recette de l'atelier du 24 février
-date: {}
-categories: présentation
-published: true
----
+Lors de cet atelier nous avons été accueilli au restaurant papille et compagnie situé au 4 Quai  Richelieu à Bordeaux par Paulette.
 
 Vous pouvez consulter les recettes préparées lors de cet atelier :
 
