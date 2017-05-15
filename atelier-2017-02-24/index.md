@@ -2,7 +2,7 @@ Lors de cet atelier nous avons été accueilli au restaurant papille et compagni
 
 Vous pouvez consulter les recettes préparées lors de cet atelier :
 
-* [Tarte poireaux épinards](tarte-poireau-epinards.md)
-* [Soupe de légumes](soupe-legumes.md)
-* [Salade mache et crudités](salade-mache-crudites.md)
-* [gateau au fromage blanc](gateau-fromage-blanc.md)
+* [Tarte poireaux épinards](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-02-24/tarte-poireau-epinards.md)
+* [Soupe de légumes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-02-24/soupe-legumes.md)
+* [Salade mache et crudités](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-02-24/salade-mache-crudites.md)
+* [gateau au fromage blanc](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-02-24/gateau-fromage-blanc.md)
