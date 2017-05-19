@@ -18,8 +18,19 @@ Avec un couteau aiguisé assez long
 * enlever toute trace de peau
 * découper les suprêmes en tranchant des quartiers
 * découper les suprêmes en morceau
+* les taillander
+
 
 ### Assemblage
 * Hacher le balisic
-* Hacher les échalottes
-* Découper en petit cube les olives vertes
+* Hacher les échalotes
+* sel, poivre
+* Découper en petits cubes les olives vertes
+* huile d'olivebien mélanger délicatement à la spatule
+* mettre dans un miule
+
+vinaigrette
+* 1/4 sauce soja
+1/4 vinaigre de cide
+1/4 vinaigre balsamique
+1/4 huile d'olive
