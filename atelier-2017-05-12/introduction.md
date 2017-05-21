@@ -18,7 +18,7 @@ Chef : Mathieu Detchart
 * 4 citrons bio
 * huile d'olive
 * 300 g d'olives vertes dénoyautées
-* 1 échalottes
+* 1 échalotes
 * 2 salades
 
 # plat de résistance
