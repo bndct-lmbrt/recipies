@@ -17,7 +17,7 @@
 1.Faire revenir les fraises dans une poêle téfal sans matière grasse
 2. Ajouter le contenu de 2 gousses de vanille et les brins
 3. laisser compoter 10 à 15 min
-
+4. option : ajouter un peu de zeste de kombava
 # crême mascarponne
 * 600g de crême fraîche liquide 
 * 200g de mascarponne
