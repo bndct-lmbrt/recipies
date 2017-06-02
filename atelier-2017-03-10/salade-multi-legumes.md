@@ -1,5 +1,5 @@
 # Salade de quinoa et légumes
-
+![Illustration](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/smallIMG_20170310_202035.png)
 ## Ingrédients (pour 8/10 pers) :
 
 * 300g de quinoa
@@ -13,7 +13,8 @@
 * 1/2 bouquet de menthe chocolat (ou menthe classique)
 * 200g de mâche
 * 1 boîte de graines germées  
-sauce vinaigrette  
+
+## sauce vinaigrette  
 * huile
 * vinaigre de cidre
 * moutarde
@@ -23,16 +24,16 @@ sauce vinaigrette
 
 ## Déroulé :
 
-Faire cuire le quinoa le plus tôt possible et le laisser refroidir au frigo.  
-Laver les radis et les couper en fines rondelles.  
-Éplucher la betterave et la râper finement.  
-Décortiquer les grains de grenade et les fèves.  
-Couper les carottes en fines rondelles.  
-Faire des suprêmes de pamplemousse (des quartiers sans la peau).  
-Hacher grossièrement les noisettes.  
-Retirer les feuilles de menthe et les ciseler.  
-Détailler la mâche.  
-Ajouter les graines germées.  
-Mélanger tous les ingrédients avec le quinoa.  
-Verser la sauce vinaigrette chacun à sa convenance.    
-Déguster aussitôt. 
+* Faire cuire le quinoa le plus tôt possible et le laisser refroidir au frigo.  
+* Laver les radis et les couper en fines rondelles.  
+* Éplucher la betterave et la râper finement.  
+* Décortiquer les grains de grenade et les fèves.  
+* Couper les carottes en fines rondelles.  
+* Faire des suprêmes de pamplemousse (des quartiers sans la peau).  
+* Hacher grossièrement les noisettes.  
+* Retirer les feuilles de menthe et les ciseler.  
+* Détailler la mâche.  
+* Ajouter les graines germées.  
+* Mélanger tous les ingrédients avec le quinoa.  
+* Verser la sauce vinaigrette chacun à sa convenance.    
+* Déguster aussitôt. 
