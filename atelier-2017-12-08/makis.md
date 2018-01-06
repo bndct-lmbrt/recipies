@@ -1,6 +1,6 @@
 # Makis aux légumes
 
-![makis](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/makis.jpg)
+![makis](https://github.com/akakeronos/recette-gourmandignes/blob/raw/master/images/maki.jpg)
 
 **Ingrédients**  
  
