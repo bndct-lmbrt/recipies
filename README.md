@@ -12,4 +12,9 @@ Ces recettes de cuisine ont été réalisées lors des ateliers Gourmandignes or
 
 * [Atelier du 12 mai 2017: poisson et légumes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-05-12/introduction.md). Atelier réalisé sous la supervision de Mathieu Dechart, traiteur basé à Lormont. Tartare de maquereau, filet de carrelet aux légumes de printemps et tiramisu revisité.
 
-![Gourmandignes en tenue](https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/small_IMG_20170310_202047.jpg)
+* [Atelier du 17 juin 2017: jus et soupes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-06-17/introduction.md). Atelier réalisé sous la supervision de Bénédicte Lambert, créatrice culinaire à Montpellier. Festival de jus et de soupes froides.
+
+* [Atelier du 30 novembre 2017: tout légumes et banane](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-11-30/introduction.md). Atelier réalisé sous la supervision de Bénédicte Lambert, créatrice culinaire à Montpellier. Soupe de potiron, falafels, hachis de lentilles et tiramisu à la banane.
+
+
+* [Atelier du 8 décembre 2017: tout légumes et pommes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-12-08/introduction.md). Atelier réalisé sous la supervision de Bénédicte Lambert, créatrice culinaire à Montpellier. soupe chou-fleur, semoule chou-fleur, makis, houmous, gateau haricots et tarte crue à la pomme.
