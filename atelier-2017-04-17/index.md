@@ -2,6 +2,6 @@ Pour ce deuxième atelier au centre sociale Brassens Camus, Bénédicte Lambert 
 Découvrez les recettes proposées ci-dessous
 
 * [pickles de légumes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17/pickles-legumes.md)
-* [crumble au légumes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17crumble-sale-legumes.md)
-* [forêt noire aux fraises](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17foret-noire-fraises.md)
-* [gremolata](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17gremolata.md) 
+* [crumble au légumes](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17/crumble-sale-legumes.md)
+* [forêt noire aux fraises](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17/foret-noire-fraises.md)
+* [gremolata](https://akakeronos.github.io/daktary/#akakeronos/recette-gourmandignes/blob/master/atelier-2017-04-17/gremolata.md) 
