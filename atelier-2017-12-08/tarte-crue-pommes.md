@@ -1,6 +1,6 @@
 # Tarte crue aux pommes
 
-![tarte](https://github.com/akakeronos/recette-gourmandignes/blob/raw/master/images/tarte-crue-pommes.jpg)
+![tarte](https://github.com/akakeronos/recette-gourmandignes/raw/master/images/tarte-crue-pommes.jpg)
 
 **Ingrédients**  
  
