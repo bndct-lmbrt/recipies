@@ -1,7 +1,5 @@
 # Soupe de chou-fleur à la cardamome
 
-![hachis](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/hachis.jpg)
-
 **Ingrédients**  
  
 

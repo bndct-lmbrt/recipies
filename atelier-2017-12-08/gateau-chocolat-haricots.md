@@ -1,7 +1,5 @@
 # Gâteau au chocolat et haricots rouges
 
-![gâteau](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/gateau-haricots.jpg)
-
 **Ingrédients**  
  
 

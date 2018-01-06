@@ -1,7 +1,5 @@
 # Soupe de potiron
 
-![soupe](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/soupe-potiron.jpg)
-
 **Ingrédients**  
  
 * 1 oignon
