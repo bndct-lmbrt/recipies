@@ -1,6 +1,6 @@
 # Houmous
 
-![variante houmous d'orties](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/houmous-orties.jpg)
+![variante houmous d'orties](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/houmous-orties.jpg)
 
 **Ingrédients**  
 

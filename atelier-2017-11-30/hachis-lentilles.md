@@ -1,6 +1,6 @@
 # Hachis parmentier sans viande
 
-![hachis](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/hachis.jpg)
+![hachis](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/hachis.jpg)
 
 **Ingrédients**  
  

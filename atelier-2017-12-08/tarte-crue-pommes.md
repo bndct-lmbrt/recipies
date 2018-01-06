@@ -1,6 +1,6 @@
 # Tarte crue aux pommes
 
-![tarte](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/tarte-crue-pommes.jpg)
+![tarte](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/tarte-crue-pommes.jpg)
 
 **Ingrédients**  
  

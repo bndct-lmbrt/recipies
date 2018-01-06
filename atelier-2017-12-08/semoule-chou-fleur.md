@@ -1,6 +1,6 @@
 # Salade de semoule de chou-fleur et saucisses à la citronnelle
 
-![salade de chou-fleur](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/semoule-chouFleur.jpg)
+![salade de chou-fleur](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/semoule-chouFleur.jpg)
 
 **Ingrédients**  
 

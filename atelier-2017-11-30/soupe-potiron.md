@@ -1,6 +1,6 @@
 # Soupe de potiron
 
-![soupe](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/soupe-potiron.jpg)
+![soupe](https://github.com/bndct-lmbrt/mes-recettes/blob/raw/master/medias/soupe-potiron.jpg)
 
 **Ingrédients**  
  
